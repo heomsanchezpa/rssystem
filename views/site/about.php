@@ -19,5 +19,5 @@ $this->params['breadcrumbs'][] = $this->title;
     	<li>Sanchez Partida Hector Omar</li>
     </ul>
 
-    <code><?= __FILE__ ?></code>
+    <!--<code><?= __FILE__ ?></code>-->
 </div>
