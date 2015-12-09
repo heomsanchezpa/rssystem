@@ -18,6 +18,7 @@ $this->title = 'RSSystem';
 
         <div class="row">
             <div class="col-lg-4">
+                <img src="http://www.iconarchive.com/download/i62008/gianni-polito/colobrush/note-edit.ico" alt="tarea">
                 <!--<h2>RSSystem</h2>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
