@@ -8,8 +8,9 @@ $this->title = 'About';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-about">
-    <h1>Proyecto RSSystem</h1>
-
+    <h1>RSSystem: Administrador de tareas</h1>
+    <h4>Instituto Tecnológico de Tepic</h4>
+    <h6>Ingeniería en Sistemas Computacionales: Programación Web</h6>
     <p>
     	Desarrollado por:    
     </p>
