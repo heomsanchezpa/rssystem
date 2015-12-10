@@ -17,8 +17,13 @@ $this->title = 'RSSystem';
     <div class="body-content">
 
         <div class="row">
+            <div id="cont_3082727d7d142a338c27047e6eeceedb">
+            <span id="h_3082727d7d142a338c27047e6eeceedb">El Tiempo Tepic</span>
+            <script type="text/javascript" async src="https://www.meteored.mx/wid_loader/3082727d7d142a338c27047e6eeceedb"></script>
+        </div>
             <div class="col-lg-4">
                 <img src="http://www.iconarchive.com/download/i62008/gianni-polito/colobrush/note-edit.ico" alt="tarea">
+                
                 <!--<h2>RSSystem</h2>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
